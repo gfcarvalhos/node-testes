@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "test:watch": "jest --detectOpenHandles --watch",
+    "test:watch": "jest --detectOpenHandles --watch", 
     "test:coverage": "jest --detectOpenHandles --coverage"
   },
   "keywords": [],
